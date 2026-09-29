@@ -9,3 +9,5 @@ __pycache__/
 scripts/**/*.npy
 scripts/**/*.pkl
 scripts/**/*.png
+scripts/showcase/refs/
+scripts/showcase/cache/
