@@ -1,0 +1,11 @@
+data/
+models/
+exports/
+.venv/
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+scripts/**/*.npy
+scripts/**/*.pkl
+scripts/**/*.png
